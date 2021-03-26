@@ -20,7 +20,7 @@ Using a query, it was possible to pull the temperature measurements at all nine 
 
 ### Table Observations
 
-* The average temperatures for both June and December are as expected with June being slightly warmer, 75 to 71, respectively.
+* The average temperatures for both June and December are, as expected, with June being slightly warmer, 75 to 71, respectively.
   
 * The standard deviations are also very comparable (3.25 in June compared to 3.75 in December) meaning that both months tend to have very similar weather patterns.   
  
@@ -28,7 +28,7 @@ Using a query, it was possible to pull the temperature measurements at all nine 
 
 ## Summary
 
-Based on temperatures alone, it appears that the while June is hotter by an average of about four degree Fahrenheit, temperatures appear to remain relatively consistent in both months. And although December is cooler and thus more likely to have “cold days”, it is doubtful that this would be a major cause for concern as far as attracting customers as the winter months consistently attract large number of tourists escaping much colder weather elsewhere. 
+Based on temperatures alone, it appears that while June is hotter by an average of about four degree Fahrenheit, temperatures appear to remain relatively consistent in both months. And although December is cooler and thus more likely to have “cold days”, it is doubtful that this would be a major cause for concern as far as attracting customers as the winter months consistently attract large number of tourists escaping much colder weather elsewhere. 
 
 While temperatures provide one metric by which to measure the popularity of potential customers wanting to surf and/or buy ice-cream based goodies, another important metric to analyze would be rainfall. Rainy days, more than temperature, may impact the number of tourists and locals that visit the beach. Thus, the following two queries would potentially provide more apt information:
 
