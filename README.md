@@ -16,7 +16,7 @@ Using a query, it was possible to pull the temperature measurements at all nine 
 
 ### Tables
  
-[![June-Temp-Stats.png](https://i.postimg.cc/3xtmQ3h3/June-Temp-Stats.png)](https://postimg.cc/VJbdjQ5h)  “                    “[![Dec-Temp-Stats.png](https://i.postimg.cc/8cGjrYGy/Dec-Temp-Stats.png)](https://postimg.cc/8Jy12tjW)  
+[![June-Temp-Stats.png](https://i.postimg.cc/3xtmQ3h3/June-Temp-Stats.png)](https://postimg.cc/VJbdjQ5h)               [![Dec-Temp-Stats.png](https://i.postimg.cc/8cGjrYGy/Dec-Temp-Stats.png)](https://postimg.cc/8Jy12tjW)  
 
 ### Table Observations
 
