@@ -12,7 +12,7 @@ Before investing in a surf and shake shop on the island of Oahu, investor W. Avy
 
 Weather data from 9 different weather stations on the island of Oahu spanning from 2010 through 2017 were available via an SQLite database file. In Python, SQLite files can be queried using a tool known as SQLalchemy ultimately making it possible to filter data in databases without having to utilize a database software such as SQL. 
 
-Using a query, it was possible to pull the temperature measurements at all nine stations for both June and December from the data file which spanned from January 2010 through August 2017 (in total eight years of June and 7 years of December measurements). Once that data had been converted into a table (data frame), it was then easy to use the describe function to gather the summary statistics for both months. 
+Using a query, it was possible to pull the temperature measurements at all nine stations for both June and December from the data file which spanned from January 2010 through August 2017 (in total 8 years of June and 7 years of December measurements). Once that data had been converted into a table (data frame), it was then easy to use the describe function to gather the summary statistics for both months. 
 
 ### Tables
  
